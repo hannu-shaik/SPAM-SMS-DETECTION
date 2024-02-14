@@ -1,4 +1,4 @@
-<img width="561" alt="Screenshot 2024-02-14 at 5 35 34 PM" src="https://github.com/hannu-shaik/SPAM-SMS-DETECTION/assets/140539636/e959db72-475a-4c62-9e6b-254107411d1f"># SPAM-SMS-DETECTION
+# SPAM-SMS-DETECTION
 
 Interpretation of Metrics
 Naive Bayes (NB)
