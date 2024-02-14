@@ -1,4 +1,4 @@
-# SPAM-SMS-DETECTION
+<img width="561" alt="Screenshot 2024-02-14 at 5 35 34 PM" src="https://github.com/hannu-shaik/SPAM-SMS-DETECTION/assets/140539636/e959db72-475a-4c62-9e6b-254107411d1f"># SPAM-SMS-DETECTION
 
 Interpretation of Metrics
 Naive Bayes (NB)
@@ -19,3 +19,20 @@ Achieves high precision for ham (90.10%) and perfect precision for spam (100.00%
 Suggestion for Final Model:
 
 Considering the high precision and well-balanced performance, Logistic Regression (LR) emerges as a strong candidate for the final model, demonstrating accurate classification across both ham and spam instances.
+
+
+<img width="561" alt="Screenshot 2024-02-14 at 5 35 34 PM" src="https://github.com/hannu-shaik/SPAM-SMS-DETECTION/assets/140539636/238d0e83-a35c-4201-8a8a-911642a0bd62"> 
+
+
+
+
+
+
+
+<img width="291" alt="Screenshot 2024-02-14 at 5 35 19 PM" src="https://github.com/hannu-shaik/SPAM-SMS-DETECTION/assets/140539636/d45fb03a-a695-422b-9038-73b884b18224">
+
+
+
+
+
+
