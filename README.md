@@ -1,5 +1,7 @@
 # SPAM-SMS-DETECTION
 
+This project focuses on the detection of spam messages in SMS communication. The aim is to develop a machine learning model capable of accurately distinguishing between legitimate (ham) and spam messages.
+
 Interpretation of Metrics
 Naive Bayes (NB)
 Achieves high precision for both ham (97.90%) and spam (92.80%), demonstrating accurate classification. Balanced recall and F-score (92.90%, 97.90%, and 95.30%) indicate effective identification of instances in both classes.
@@ -30,6 +32,17 @@ Considering the high precision and well-balanced performance, Logistic Regressio
 
 
 <img width="291" alt="Screenshot 2024-02-14 at 5 35 19 PM" src="https://github.com/hannu-shaik/SPAM-SMS-DETECTION/assets/140539636/d45fb03a-a695-422b-9038-73b884b18224">
+
+
+
+
+Conclusion
+Through rigorous analysis and evaluation, the Logistic Regression model emerged as the most suitable for spam detection, demonstrating high accuracy, precision, and balanced performance across both ham and spam instances.
+
+Acknowledgment
+This project is created as a part of learning and exploration in machine learning and natural language processing techniques. The dataset used is publicly available and credited to its original sources.
+
+
 
 
 
